@@ -38,6 +38,19 @@ h1 {
 	color: #fff; 
 }
 
+.small-text { 
+	font-weight: normal;
+	font-size: 16px;
+}
+
+.small-text a { 
+	color: #000;
+}
+
+.small-text a:hover { 
+	color: #2F4F4F;
+}
+
 .intro-text { 
 	font-weight: normal;
 	font-size: 32px;
