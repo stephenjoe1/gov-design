@@ -162,6 +162,26 @@ h2 {
 	color: #2F4F4F;
 }
 
+.button {
+	color: #fff;
+	background-color: #f06723;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom: 3px solid #b44801;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: 500;
+	font-size: 19px;
+	cursor: pointer; 
+}
+
+a .button:hover {
+	background-color: #cb591a; 
+}
+
 
 /* utils */
 .clearfix:before,
