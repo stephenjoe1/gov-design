@@ -132,6 +132,17 @@ h2 {
 	font-weight: 500; 
 }
 
+.intro-details a{ 
+	color: #000;
+	font-weight: 700; 
+}
+
+.intro-details a:hover { 
+	color: #2F4F4F;
+}
+
+
+
 .intro-details-date { 
 	font-size: 19px;
 	line-height: 25px;
