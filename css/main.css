@@ -193,14 +193,6 @@ iframe {
 	line-height: 44px; 
 }
 
-.intro-text-2 {
-	color: #fff;
-	width: 80%;
-	font-weight: 500;
-	margin-top: 60px;
-	margin-bottom: 60px;
-}
-
 .intro-text a { 
 	color: #000000;
 	text-decoration: underline; 
@@ -209,6 +201,15 @@ iframe {
 .intro-text a:hover { 
 	color: #2F4F4F;
 }
+
+.intro-text-2 {
+	color: #fff;
+	width: 80%;
+	font-weight: 500;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
 
 .intro-symbol {
 	width: 33%;
@@ -256,13 +257,14 @@ iframe {
 }
 
 .intro-speakers-big a{ 
-	color: #fff;
+	color: #96cde1;
 	font-weight: 500;
-	text-decoration: underline; 
+	text-decoration: none; 
 }
 
 .intro-speakers-big a:hover{ 
-	color: #96cde1;
+	color: #fff;
+	text-decoration: underline;
 }
 
 
