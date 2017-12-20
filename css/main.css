@@ -60,19 +60,21 @@ h3 {
 .section-header {
 	/*background-color: black;*/
 	/*background-color: #f8c9df;*/
-	background-color: #f9b342;
+	background-color: #292c67;
 	margin-top: 0px;
 	font-color: red;
 	display: block;
+	padding-bottom: 30px;
 }
 
 .section-upcoming {
 	/*background-color: black;*/
 	/*background-color: #f8c9df;*/
-	background-color: #292c67;
+	background-color: #ffc322;
 	margin-top: 0px;
 	font-color: red;
 	display: block;
+	padding-bottom: 30px;
 }
 
 .section-body-top {
@@ -88,6 +90,7 @@ h3 {
 	max-width: 960px;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 30px;
 	padding: 15px 15px 15px 15px;
 	display: block;
 	clear: both;
@@ -131,8 +134,8 @@ iframe {
 
 
 .outline-hash {
-	color: #292c67;
-   -webkit-text-stroke: 1px #292c67;
+	color: #ffc322;
+   -webkit-text-stroke: 1px #ffc322;
    margin-right: 5px;
 }
 
@@ -146,13 +149,19 @@ iframe {
 }
 
 .heading-upcoming { 
-	color: #96cde1;
+	color: #292c67;
 	font-weight: bold;
 	font-size: 64px;
 	font-weight: 700;
 	margin-bottom: 10px;
-	margin-top: 5px;
+	margin-top: 60px;
 	line-height: 64px;
+}
+
+.heading-previous { 
+	font-weight: bold;
+	font-size: 36px;
+	margin-bottom: 5px;
 }
 
 .heading-2 { 
@@ -186,7 +195,7 @@ iframe {
 /*//intro//*/
 
 .intro-text {
-	color: #292c67;
+	color: #fff;
 	width: 80%;
 	font-weight: 500;
 	font-size: 36px;
@@ -203,7 +212,7 @@ iframe {
 }
 
 .intro-text-2 {
-	color: #fff;
+	color: #292c67;
 	width: 80%;
 	font-weight: 500;
 	margin-top: 60px;
@@ -257,9 +266,9 @@ iframe {
 }
 
 .intro-speakers-big a{ 
-	color: #96cde1;
+	color: #292c67;
 	font-weight: 500;
-	text-decoration: none; 
+	text-decoration: underline; 
 }
 
 .intro-speakers-big a:hover{ 
@@ -297,6 +306,10 @@ iframe {
 	color: #fff;
 }
 
+.dark-blue-text {
+	color: #292c67;
+}
+
 .orange-text {
 	color: #f9b342;
 }
@@ -313,6 +326,7 @@ iframe {
 	font-weight: normal;
 	font-size: 19px;
 	font-weight: 500;
+	color: #292c67;
 }
 
 .small-text a { 
@@ -343,11 +357,12 @@ iframe {
 .large-text { 
 	font-size: 24px;
 	line-height: 32px;
-	font-weight: 700; 
+	font-weight: 700;
+	color: #292c67; 
 }
 
 .large-text a { 
-	color: #000000;
+	color: #292c67;
 	text-decoration: underline; 
 }
 
@@ -460,9 +475,8 @@ h2 {
 
 
 
-
 .outline-hash {
-   -webkit-text-stroke: 1px color: #292c67;
+   -webkit-text-stroke: 1px color: #ffc322;
 }
 
 .section-body-copy {
