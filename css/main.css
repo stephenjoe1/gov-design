@@ -370,6 +370,12 @@ iframe {
 	color: #2F4F4F;
 }
 
+.heading-medium { 
+	font-size: 24px;
+	line-height: 24px;
+	margin-bottom: 30px;
+}
+
 .reg-closed {
 	color: #000;
 	background-color: #92c7d9;
@@ -497,6 +503,7 @@ h2 {
 	font-size: 19px;
 	line-height: 24px;
 }
+
 
 .intro-sub-text { 
 	font-size: 19px;
