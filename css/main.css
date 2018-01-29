@@ -73,11 +73,13 @@ h3 {
 .section-upcoming {
 	/*background-color: black;*/
 	/*background-color: #f8c9df;*/
-	background-color: #ffc322;
+	/*background-color: #ffc322;*/
+	background-color: #F8F8F8;
 	margin-top: 0px;
 	font-color: red;
 	display: block;
 	padding-bottom: 30px;
+	border-bottom: 1px solid #BFC1C3;
 }
 
 .section-body-top {
@@ -302,7 +304,9 @@ iframe {
 .intro-details-date { 
 	font-size: 19px;
 	line-height: 25px;
-	font-weight: 700; 
+	font-weight: 700;
+	margin-top: 30px;
+	margin-bottom: 5px; 
 }
 
 .white-text {
