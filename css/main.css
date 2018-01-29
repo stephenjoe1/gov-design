@@ -529,7 +529,7 @@ h2 {
 @media only screen and (max-width : 480px) {
 
 .section-header {
-	background: url(../gd-lead-image.jpg) #292c67 no-repeat center center fixed;
+	background: #292c67;
 }
 
 .column-third {
