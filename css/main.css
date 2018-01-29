@@ -60,7 +60,7 @@ h3 {
 	/*background-color: black;*/
 	/*background-color: #f8c9df;*/
 	/*background-color: #292c67;*/
-	background: url(../gd-lead-image.jpg) #292c67 no-repeat center center fixed;
+	background: url(../gd-lead-image.jpg) #292c67 no-repeat left center fixed;
 	-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
