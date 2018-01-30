@@ -27,7 +27,7 @@
 body {
 	font-family: 'CooperHewitt', Helvetica neue, Helvetica, sans-serif;
 	font-size: 19px;
-	color: black;
+	color: #292c67;
 	line-height: 1.4;
 	margin: 0;
 	font-weight: 500;
@@ -50,6 +50,10 @@ body {
 	margin-right:15px;
 	float: left;
 	display: block;
+}
+
+.iframe-height {
+	min-height: 166px;
 }
 
 h3 {
@@ -81,6 +85,18 @@ h3 {
 	padding-bottom: 5px;
 	border-bottom: 1px solid #BFC1C3;
 }
+
+.previous-event-image {
+	background: url(../gd-mid-image.jpg) #292c67 no-repeat center center fixed;
+	margin-top: 30px;
+	min-height: 440px;
+}
+
+.previous-event-image .heading-upcoming {
+	color: #fff;
+	margin-top: 180px;
+}
+
 
 .section-body-top {
 	max-width: 960px;
@@ -118,9 +134,10 @@ iframe {
 }
 
 .section-footer {
-	background-color: #DEE0E2;
+	background-color: #F8F8F8;
 	margin-top: 60px;
 	display: block;
+	border-top: 1px solid #BFC1C3;
 }
 
 .bottom-contacts {
@@ -132,7 +149,7 @@ iframe {
 }
 
 .caption-copy {
-	margin-top: 5px;
+	margin-top: 20px;
 	font-size: 14px;
 	margin-bottom: 60px;
 }
@@ -208,7 +225,7 @@ iframe {
 }
 
 .intro-text a { 
-	color: #000000;
+	color: #292c67;
 	text-decoration: underline; 
 }
 
@@ -250,17 +267,17 @@ iframe {
 }
 
 .intro-speakers a{ 
-	color: #000;
+	color: #292c67;
 	font-weight: 700; 
 }
 
 .bold-name {
-	color: #000;
+	color: #292c67;
 	font-weight: 700; 
 }
 
 .intro-speakers a:hover { 
-	color: #2F4F4F;
+	color: #cb591a;
 }
 
 
@@ -291,7 +308,7 @@ iframe {
 }
 
 .intro-details a{ 
-	color: #000;
+	color: #292c67;
 	font-weight: 700; 
 }
 
@@ -333,16 +350,16 @@ iframe {
 	font-weight: normal;
 	font-size: 19px;
 	font-weight: 500;
-	color: black;
+	color: #292c67;
 }
 
 .small-text a { 
-	color: #000;
+	color: #292c67;
 	text-decoration: none;
 }
 
 .small-text a:hover { 
-	color: #2F4F4F;
+	color: #cb591a;
 }
 
 .small-text-footer { 
@@ -353,28 +370,28 @@ iframe {
 }
 
 .small-text-footer a { 
-	color: #000;
+	color: #292c67;
 	text-decoration: none;
 }
 
 .small-text-footer a:hover { 
-	color: #2F4F4F;
+	color: #cb591a;
 }
 
 .large-text { 
 	font-size: 24px;
 	line-height: 32px;
 	font-weight: 700;
-	color: black; 
+	color: #292c67; 
 }
 
 .large-text a { 
-	color: black;
+	color: #292c67;
 	text-decoration: underline; 
 }
 
 .large-text a:hover { 
-	color: #2F4F4F;
+	color: #cb591a;
 }
 
 .heading-medium { 
@@ -391,7 +408,7 @@ iframe {
 }
 
 .reg-closed {
-	color: #000;
+	color: #292c67;
 	background-color: #92c7d9;
 	padding-left: 15px;
 	padding-right: 15px;
