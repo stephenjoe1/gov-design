@@ -92,6 +92,12 @@ h3 {
 	min-height: 440px;
 }
 
+.previous-event-image-2 {
+	background: url(../govdesign-posters-website.jpg) #292c67 no-repeat center center fixed;
+	margin-top: 30px;
+	min-height: 440px;
+}
+
 .previous-event-image .heading-upcoming {
 	color: #fff;
 	margin-top: 180px;
@@ -115,6 +121,12 @@ h3 {
 	padding: 15px 15px 15px 15px;
 	display: block;
 	clear: both;
+}
+
+.section-body img {
+	max-width: 100%;
+	margin-bottom: 60px;
+	margin-top: 0px;
 }
 
 .section-body-copy {
